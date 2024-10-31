@@ -1,0 +1,8 @@
+<form [formGroup]="customerForm" (ngSubmit)="onSubmit()" class="space-y-4 bg-gray-100 p-4 rounded shadow">
+  <input class="w-full p-2 border border-gray-300 rounded" formControlName="firstName" placeholder="First Name"
+    required />
+  <input class="w-full p-2 border border-gray-300 rounded" formControlName="lastName" placeholder="Last Name"
+    required />
+  <input class="w-full p-2 border border-gray-300 rounded" formControlName="email" placeholder="Email" required />
+  <button class="bg-green-500 text-white py-2 px-4 rounded" type="submit">Save</button>
+</form>

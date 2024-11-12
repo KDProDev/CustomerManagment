@@ -1,3 +1,7 @@
+
+![photo_5879735809781909068_y](https://github.com/user-attachments/assets/2c75de2e-db96-46bb-a432-5c6be33b6d8f)
+
+
 ## Backend Setup
 Clone the repository:
 
